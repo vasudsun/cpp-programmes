@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/CWD/delimiter=;
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/CWD/operation=replace
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/CWD/value=E\:\\workspace\\cpp\\Festo\\Vector-sample1\\Debug
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/MINGW_HOME/delimiter=;
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/MINGW_HOME/operation=append
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/MINGW_HOME/value=C\:\\MinGW
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/append=true
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.146611921/appendContributed=true
